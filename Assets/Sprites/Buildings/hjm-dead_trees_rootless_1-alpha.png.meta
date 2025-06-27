@@ -1,0 +1,1368 @@
+fileFormatVersion: 2
+guid: 2d9333bfe480d4f4ca1ad54029ccae63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5743821991639191765
+    second: hjm-dead_trees_rootless_1-alpha_0
+  - first:
+      213: -6368253341349428985
+    second: hjm-dead_trees_rootless_1-alpha_1
+  - first:
+      213: -6623901594152192232
+    second: hjm-dead_trees_rootless_1-alpha_2
+  - first:
+      213: -335417404048330011
+    second: hjm-dead_trees_rootless_1-alpha_3
+  - first:
+      213: -2965075262307374040
+    second: hjm-dead_trees_rootless_1-alpha_4
+  - first:
+      213: -6046869141826426557
+    second: hjm-dead_trees_rootless_1-alpha_5
+  - first:
+      213: -5594836933200212405
+    second: hjm-dead_trees_rootless_1-alpha_6
+  - first:
+      213: -6631517182386706219
+    second: hjm-dead_trees_rootless_1-alpha_7
+  - first:
+      213: 9010251115224088457
+    second: hjm-dead_trees_rootless_1-alpha_8
+  - first:
+      213: 9115407495477374440
+    second: hjm-dead_trees_rootless_1-alpha_9
+  - first:
+      213: 8664251759715013651
+    second: hjm-dead_trees_rootless_1-alpha_10
+  - first:
+      213: 5282519978951357296
+    second: hjm-dead_trees_rootless_1-alpha_11
+  - first:
+      213: -1303720237510808970
+    second: hjm-dead_trees_rootless_1-alpha_12
+  - first:
+      213: -7195021682451227396
+    second: hjm-dead_trees_rootless_1-alpha_13
+  - first:
+      213: -2604076829052458246
+    second: hjm-dead_trees_rootless_1-alpha_14
+  - first:
+      213: 7991403894504662401
+    second: hjm-dead_trees_rootless_1-alpha_15
+  - first:
+      213: -3878508328573288396
+    second: hjm-dead_trees_rootless_1-alpha_16
+  - first:
+      213: 5613701912526415915
+    second: hjm-dead_trees_rootless_1-alpha_17
+  - first:
+      213: 6522592984390485182
+    second: hjm-dead_trees_rootless_1-alpha_18
+  - first:
+      213: 5784424899126171082
+    second: hjm-dead_trees_rootless_1-alpha_19
+  - first:
+      213: 6450644512048479998
+    second: hjm-dead_trees_rootless_1-alpha_20
+  - first:
+      213: -5982361616172749957
+    second: hjm-dead_trees_rootless_1-alpha_21
+  - first:
+      213: 8335630091622456220
+    second: hjm-dead_trees_rootless_1-alpha_22
+  - first:
+      213: 769335267991052882
+    second: hjm-dead_trees_rootless_1-alpha_23
+  - first:
+      213: -3649878841010878323
+    second: hjm-dead_trees_rootless_1-alpha_24
+  - first:
+      213: 6606941230367306716
+    second: hjm-dead_trees_rootless_1-alpha_25
+  - first:
+      213: 9113208820523348684
+    second: hjm-dead_trees_rootless_1-alpha_26
+  - first:
+      213: -2762184699332508032
+    second: hjm-dead_trees_rootless_1-alpha_27
+  - first:
+      213: -8984035378358397992
+    second: hjm-dead_trees_rootless_1-alpha_28
+  - first:
+      213: -8217568827211842223
+    second: hjm-dead_trees_rootless_1-alpha_29
+  - first:
+      213: -1330813402755770664
+    second: hjm-dead_trees_rootless_1-alpha_30
+  - first:
+      213: -8665456994712968040
+    second: hjm-dead_trees_rootless_1-alpha_31
+  - first:
+      213: 6871986104832131149
+    second: hjm-dead_trees_rootless_1-alpha_32
+  - first:
+      213: 4049520492237085081
+    second: hjm-dead_trees_rootless_1-alpha_33
+  - first:
+      213: -3420864403569657641
+    second: hjm-dead_trees_rootless_1-alpha_34
+  - first:
+      213: -771500521042660529
+    second: hjm-dead_trees_rootless_1-alpha_35
+  - first:
+      213: -1143220259378563602
+    second: hjm-dead_trees_rootless_1-alpha_36
+  - first:
+      213: -7106044037623883447
+    second: hjm-dead_trees_rootless_1-alpha_37
+  - first:
+      213: -7257076798050770880
+    second: hjm-dead_trees_rootless_1-alpha_38
+  - first:
+      213: 1969351876510558173
+    second: hjm-dead_trees_rootless_1-alpha_39
+  - first:
+      213: -2841052980050908469
+    second: hjm-dead_trees_rootless_1-alpha_40
+  - first:
+      213: 316694639601107321
+    second: hjm-dead_trees_rootless_1-alpha_41
+  - first:
+      213: -3195927196809389812
+    second: hjm-dead_trees_rootless_1-alpha_42
+  - first:
+      213: 8707558918996004088
+    second: hjm-dead_trees_rootless_1-alpha_43
+  - first:
+      213: -8290164058989149634
+    second: hjm-dead_trees_rootless_1-alpha_44
+  - first:
+      213: -2669908975114340576
+    second: hjm-dead_trees_rootless_1-alpha_45
+  - first:
+      213: -6228462916080298298
+    second: hjm-dead_trees_rootless_1-alpha_46
+  - first:
+      213: 164582399084264570
+    second: hjm-dead_trees_rootless_1-alpha_47
+  - first:
+      213: -6973236180911996639
+    second: hjm-dead_trees_rootless_1-alpha_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_0
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1087
+        width: 192
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fe447a458d940b0800000000000000
+      internalID: -5743821991639191765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_1
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1215
+        width: 126
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7014c25935b6f97a0800000000000000
+      internalID: -6368253341349428985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_2
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1034
+        width: 81
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8173a65589c2314a0800000000000000
+      internalID: -6623901594152192232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_3
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1062
+        width: 175
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2373ce5ab585bf0800000000000000
+      internalID: -335417404048330011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_4
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1189
+        width: 108
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ceed132cfe9d6d0800000000000000
+      internalID: -2965075262307374040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_5
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 908
+        width: 186
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3492a2e9d84351ca0800000000000000
+      internalID: -6046869141826426557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_6
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 881
+        width: 206
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e8d54b3752b52b0800000000000000
+      internalID: -5594836933200212405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_7
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 965
+        width: 141
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8e0f5024e18f3a0800000000000000
+      internalID: -6631517182386706219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_8
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 824
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fbff3a6a7da0d70800000000000000
+      internalID: 9010251115224088457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_9
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 824
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edacd652de608e70800000000000000
+      internalID: 9115407495477374440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_10
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 820
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314dd5ef11b9d3870800000000000000
+      internalID: 8664251759715013651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_11
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 821
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073bc40dee74f4940800000000000000
+      internalID: 5282519978951357296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_12
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 821
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a2ea4f95148ede0800000000000000
+      internalID: -1303720237510808970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_13
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 824
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcd24296e5262c90800000000000000
+      internalID: -7195021682451227396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_14
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 820
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afaa084cbe57cdbd0800000000000000
+      internalID: -2604076829052458246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_15
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 824
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185af94708b27ee60800000000000000
+      internalID: 7991403894504662401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_16
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 824
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430cef07935cc2ac0800000000000000
+      internalID: -3878508328573288396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_17
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 820
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2861139520e7ed40800000000000000
+      internalID: 5613701912526415915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_18
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 824
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4cc09d2c7e48a50800000000000000
+      internalID: 6522592984390485182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_19
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 824
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5175e6cc7664050800000000000000
+      internalID: 5784424899126171082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_20
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 824
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efef8f8b10b458950800000000000000
+      internalID: 6450644512048479998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_21
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 824
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b67165ec16afca0800000000000000
+      internalID: -5982361616172749957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_22
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 824
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b963e776b1ea370800000000000000
+      internalID: 8335630091622456220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_23
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 824
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25269c1a95a3daa00800000000000000
+      internalID: 769335267991052882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_24
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 824
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8805503886095dc0800000000000000
+      internalID: -3649878841010878323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_25
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 824
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3fcef3b0290bb50800000000000000
+      internalID: 6606941230367306716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_26
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 820
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2304f632f987e70800000000000000
+      internalID: 9113208820523348684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_27
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 824
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086444096afbaa9d0800000000000000
+      internalID: -2762184699332508032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_28
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 824
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3d76f3c6b425380800000000000000
+      internalID: -8984035378358397992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_29
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 824
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15df6b0b0b455fd80800000000000000
+      internalID: -8217568827211842223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_30
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 824
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6d96ad240088de0800000000000000
+      internalID: -1330813402755770664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_31
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 824
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894a5bd56cc1eb780800000000000000
+      internalID: -8665456994712968040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_32
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 821
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4080f7f3f23e5f50800000000000000
+      internalID: 6871986104832131149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_33
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 824
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999d472be69c23830800000000000000
+      internalID: 4049520492237085081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_34
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 824
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8b37013f5a680d0800000000000000
+      internalID: -3420864403569657641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_35
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 824
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43393b1d541b45f0800000000000000
+      internalID: -771500521042660529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_36
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 824
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5f5bb2b377220f0800000000000000
+      internalID: -1143220259378563602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_37
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 824
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9495523e892426d90800000000000000
+      internalID: -7106044037623883447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_38
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 824
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04064701a1fa94b90800000000000000
+      internalID: -7257076798050770880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_39
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 824
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7292df81b845b10800000000000000
+      internalID: 1969351876510558173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_40
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 824
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca20000e5d8298d0800000000000000
+      internalID: -2841052980050908469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_41
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 451
+        width: 274
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971c1b7c810256400800000000000000
+      internalID: 316694639601107321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_42
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 580
+        width: 84
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c099a22b529c5a3d0800000000000000
+      internalID: -3195927196809389812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_43
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 402
+        width: 239
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc8a83c3b677d870800000000000000
+      internalID: 8707558918996004088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_44
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 323
+        width: 118
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32cd3626bb63fc80800000000000000
+      internalID: -8290164058989149634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_45
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 270
+        width: 165
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027bea3dee392fad0800000000000000
+      internalID: -2669908975114340576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_46
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 453
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c617564afd0099a0800000000000000
+      internalID: -6228462916080298298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_47
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 275
+        width: 97
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cf2b9e1d6b84200800000000000000
+      internalID: 164582399084264570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_rootless_1-alpha_48
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 103
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121c6d5a3a61a3f90800000000000000
+      internalID: -6973236180911996639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,618 @@
+fileFormatVersion: 2
+guid: ae2b67dc3d950a140812e8998da9534d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1275934375676504344
+    second: Isometric Mountains Render VideoGame 2d_0
+  - first:
+      213: -4145268372419838808
+    second: Isometric Mountains Render VideoGame 2d_1
+  - first:
+      213: 4017977319670280350
+    second: Isometric Mountains Render VideoGame 2d_2
+  - first:
+      213: -8023610828599131766
+    second: Isometric Mountains Render VideoGame 2d_3
+  - first:
+      213: 2883479129676544938
+    second: Isometric Mountains Render VideoGame 2d_4
+  - first:
+      213: -4314806669597335801
+    second: Isometric Mountains Render VideoGame 2d_5
+  - first:
+      213: 5827886803650947604
+    second: Isometric Mountains Render VideoGame 2d_6
+  - first:
+      213: -659909480018079332
+    second: Isometric Mountains Render VideoGame 2d_7
+  - first:
+      213: -59293947034442942
+    second: Isometric Mountains Render VideoGame 2d_8
+  - first:
+      213: 5380233906329746599
+    second: Isometric Mountains Render VideoGame 2d_9
+  - first:
+      213: -7004508383368233812
+    second: Isometric Mountains Render VideoGame 2d_10
+  - first:
+      213: -200586318887052736
+    second: Isometric Mountains Render VideoGame 2d_11
+  - first:
+      213: -2637195697732188840
+    second: Isometric Mountains Render VideoGame 2d_12
+  - first:
+      213: 786534526523184778
+    second: Isometric Mountains Render VideoGame 2d_13
+  - first:
+      213: 397856303808803884
+    second: Isometric Mountains Render VideoGame 2d_14
+  - first:
+      213: -5915617021737439605
+    second: Isometric Mountains Render VideoGame 2d_15
+  - first:
+      213: 268637491955695404
+    second: Isometric Mountains Render VideoGame 2d_16
+  - first:
+      213: 5979926405258445548
+    second: Isometric Mountains Render VideoGame 2d_17
+  - first:
+      213: 6534518459848061734
+    second: Isometric Mountains Render VideoGame 2d_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Isometric Mountains Render VideoGame 2d_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 743
+        width: 254
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6971d0278fa4ee0800000000000000
+      internalID: -1275934375676504344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Mountains Render VideoGame 2d_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 243
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acf04bb06c0976c0800000000000000
+      internalID: -4145268372419838808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Mountains Render VideoGame 2d_2
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 755
+        width: 360
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90f5868519b2c730800000000000000
+      internalID: 4017977319670280350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Mountains Render VideoGame 2d_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 498
+        width: 447
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a810f59567866a090800000000000000
+      internalID: -8023610828599131766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Mountains Render VideoGame 2d_4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 503
+        width: 197
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab7f99bdfc240820800000000000000
+      internalID: 2883479129676544938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Mountains Render VideoGame 2d_5
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 511
+        width: 219
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f1a20e13abe14c0800000000000000
+      internalID: -4314806669597335801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Mountains Render VideoGame 2d_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 246
+        width: 216
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a2dc2ab20d0e050800000000000000
+      internalID: 5827886803650947604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Mountains Render VideoGame 2d_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 252
+        width: 244
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c911c9303d787d6f0800000000000000
+      internalID: -659909480018079332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Mountains Render VideoGame 2d_8
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 299
+        width: 162
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2436ea528785d2ff0800000000000000
+      internalID: -59293947034442942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Mountains Render VideoGame 2d_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 13
+        width: 367
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acfb4b6b3e6aaa40800000000000000
+      internalID: 5380233906329746599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Mountains Render VideoGame 2d_10
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 272
+        width: 64
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac371f9cbcface90800000000000000
+      internalID: -7004508383368233812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Mountains Render VideoGame 2d_11
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 272
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a1fe34ecf573df0800000000000000
+      internalID: -200586318887052736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Mountains Render VideoGame 2d_12
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 272
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8550c714c7cc66bd0800000000000000
+      internalID: -2637195697732188840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Mountains Render VideoGame 2d_13
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 272
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a869ef01cf45aea00800000000000000
+      internalID: 786534526523184778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Mountains Render VideoGame 2d_14
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 272
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c247c2c4338758500800000000000000
+      internalID: 397856303808803884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Mountains Render VideoGame 2d_15
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 272
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ee51839a187eda0800000000000000
+      internalID: -5915617021737439605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Mountains Render VideoGame 2d_16
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 272
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ffe5920646ab300800000000000000
+      internalID: 268637491955695404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Mountains Render VideoGame 2d_17
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 272
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce28860f167fcf250800000000000000
+      internalID: 5979926405258445548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isometric Mountains Render VideoGame 2d_18
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 272
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623f979fae54faa50800000000000000
+      internalID: 6534518459848061734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

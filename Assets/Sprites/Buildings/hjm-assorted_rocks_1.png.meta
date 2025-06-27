@@ -1,0 +1,3493 @@
+fileFormatVersion: 2
+guid: 407b16044962fc74a869ca2f346b5f0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2359161770135335333
+    second: hjm-assorted_rocks_1_0
+  - first:
+      213: 2096978046207512755
+    second: hjm-assorted_rocks_1_1
+  - first:
+      213: 5574860234361811740
+    second: hjm-assorted_rocks_1_2
+  - first:
+      213: -3226781965855967100
+    second: hjm-assorted_rocks_1_3
+  - first:
+      213: -4476587958097010068
+    second: hjm-assorted_rocks_1_4
+  - first:
+      213: 6148064025385470578
+    second: hjm-assorted_rocks_1_5
+  - first:
+      213: 4686395643681635991
+    second: hjm-assorted_rocks_1_6
+  - first:
+      213: 4543190410127133385
+    second: hjm-assorted_rocks_1_7
+  - first:
+      213: -7879449408933412165
+    second: hjm-assorted_rocks_1_8
+  - first:
+      213: -3436003184825411367
+    second: hjm-assorted_rocks_1_9
+  - first:
+      213: -6412935572749804312
+    second: hjm-assorted_rocks_1_10
+  - first:
+      213: 5261792833175904076
+    second: hjm-assorted_rocks_1_11
+  - first:
+      213: 5598526612979527929
+    second: hjm-assorted_rocks_1_12
+  - first:
+      213: -2396005005680091308
+    second: hjm-assorted_rocks_1_13
+  - first:
+      213: -5043082573695266717
+    second: hjm-assorted_rocks_1_14
+  - first:
+      213: 3773529675914798569
+    second: hjm-assorted_rocks_1_15
+  - first:
+      213: 6836923142284359263
+    second: hjm-assorted_rocks_1_16
+  - first:
+      213: -1078365778598535126
+    second: hjm-assorted_rocks_1_17
+  - first:
+      213: -5764020991267969474
+    second: hjm-assorted_rocks_1_18
+  - first:
+      213: -5467244177022962359
+    second: hjm-assorted_rocks_1_19
+  - first:
+      213: 9062254016477887260
+    second: hjm-assorted_rocks_1_20
+  - first:
+      213: 5079930256986310222
+    second: hjm-assorted_rocks_1_21
+  - first:
+      213: 3101224967894043963
+    second: hjm-assorted_rocks_1_22
+  - first:
+      213: -6986742140495442042
+    second: hjm-assorted_rocks_1_23
+  - first:
+      213: -6787495358738148206
+    second: hjm-assorted_rocks_1_24
+  - first:
+      213: -7608833419147654684
+    second: hjm-assorted_rocks_1_25
+  - first:
+      213: 4635214968867070228
+    second: hjm-assorted_rocks_1_26
+  - first:
+      213: 8268739746343674625
+    second: hjm-assorted_rocks_1_27
+  - first:
+      213: -7168037274900137280
+    second: hjm-assorted_rocks_1_28
+  - first:
+      213: -6878809130371134458
+    second: hjm-assorted_rocks_1_29
+  - first:
+      213: 4625153323710271771
+    second: hjm-assorted_rocks_1_30
+  - first:
+      213: -5735215962954383501
+    second: hjm-assorted_rocks_1_31
+  - first:
+      213: 1970611507366086107
+    second: hjm-assorted_rocks_1_32
+  - first:
+      213: 9038996450179737052
+    second: hjm-assorted_rocks_1_33
+  - first:
+      213: 2221990460303142577
+    second: hjm-assorted_rocks_1_34
+  - first:
+      213: -5496396952483004112
+    second: hjm-assorted_rocks_1_35
+  - first:
+      213: -8876930340620090370
+    second: hjm-assorted_rocks_1_36
+  - first:
+      213: 4954333447970568196
+    second: hjm-assorted_rocks_1_37
+  - first:
+      213: -38927821393305463
+    second: hjm-assorted_rocks_1_38
+  - first:
+      213: 2037853600529250483
+    second: hjm-assorted_rocks_1_39
+  - first:
+      213: -6965841240188227842
+    second: hjm-assorted_rocks_1_40
+  - first:
+      213: -6458108456149240656
+    second: hjm-assorted_rocks_1_41
+  - first:
+      213: 3650132440643751040
+    second: hjm-assorted_rocks_1_42
+  - first:
+      213: 7025544552548452148
+    second: hjm-assorted_rocks_1_43
+  - first:
+      213: 537039869134811508
+    second: hjm-assorted_rocks_1_44
+  - first:
+      213: 4785314970748639983
+    second: hjm-assorted_rocks_1_45
+  - first:
+      213: -9194195648351076875
+    second: hjm-assorted_rocks_1_46
+  - first:
+      213: -6999007895995961076
+    second: hjm-assorted_rocks_1_47
+  - first:
+      213: -969929948300119138
+    second: hjm-assorted_rocks_1_48
+  - first:
+      213: 254654199783880822
+    second: hjm-assorted_rocks_1_49
+  - first:
+      213: -1918468743449645543
+    second: hjm-assorted_rocks_1_50
+  - first:
+      213: 3132928123467292409
+    second: hjm-assorted_rocks_1_51
+  - first:
+      213: -2179314121989695637
+    second: hjm-assorted_rocks_1_52
+  - first:
+      213: -777664414523177032
+    second: hjm-assorted_rocks_1_53
+  - first:
+      213: -3871887664658963346
+    second: hjm-assorted_rocks_1_54
+  - first:
+      213: -5005854671973976834
+    second: hjm-assorted_rocks_1_55
+  - first:
+      213: 5829054956230618807
+    second: hjm-assorted_rocks_1_56
+  - first:
+      213: 6288831770123225602
+    second: hjm-assorted_rocks_1_57
+  - first:
+      213: 4934616204373010771
+    second: hjm-assorted_rocks_1_58
+  - first:
+      213: 6104334286630308619
+    second: hjm-assorted_rocks_1_59
+  - first:
+      213: 7334472729580474452
+    second: hjm-assorted_rocks_1_60
+  - first:
+      213: -3179523594129529907
+    second: hjm-assorted_rocks_1_61
+  - first:
+      213: 111306322053118052
+    second: hjm-assorted_rocks_1_62
+  - first:
+      213: -2761082462605092579
+    second: hjm-assorted_rocks_1_63
+  - first:
+      213: 3599417577296728883
+    second: hjm-assorted_rocks_1_64
+  - first:
+      213: 6348014195249744632
+    second: hjm-assorted_rocks_1_65
+  - first:
+      213: 1411160888330638335
+    second: hjm-assorted_rocks_1_66
+  - first:
+      213: 6893366484249701180
+    second: hjm-assorted_rocks_1_67
+  - first:
+      213: -8176301788892093781
+    second: hjm-assorted_rocks_1_68
+  - first:
+      213: -5540740589299472986
+    second: hjm-assorted_rocks_1_69
+  - first:
+      213: 8810938210600535303
+    second: hjm-assorted_rocks_1_70
+  - first:
+      213: -6190082155053174820
+    second: hjm-assorted_rocks_1_71
+  - first:
+      213: -4873557790326813453
+    second: hjm-assorted_rocks_1_72
+  - first:
+      213: 5228249191309265622
+    second: hjm-assorted_rocks_1_73
+  - first:
+      213: 1241143801682001775
+    second: hjm-assorted_rocks_1_74
+  - first:
+      213: 427416753423176559
+    second: hjm-assorted_rocks_1_75
+  - first:
+      213: -3062253608356283939
+    second: hjm-assorted_rocks_1_76
+  - first:
+      213: 7926704146333540236
+    second: hjm-assorted_rocks_1_77
+  - first:
+      213: 6360546070035928043
+    second: hjm-assorted_rocks_1_78
+  - first:
+      213: 6426879049442393745
+    second: hjm-assorted_rocks_1_79
+  - first:
+      213: -655436788585637435
+    second: hjm-assorted_rocks_1_80
+  - first:
+      213: 2792525546025546285
+    second: hjm-assorted_rocks_1_81
+  - first:
+      213: -4483144008499809531
+    second: hjm-assorted_rocks_1_82
+  - first:
+      213: 7339329395476304973
+    second: hjm-assorted_rocks_1_83
+  - first:
+      213: 237169586976229471
+    second: hjm-assorted_rocks_1_84
+  - first:
+      213: 3930833032431600902
+    second: hjm-assorted_rocks_1_85
+  - first:
+      213: -6247967285100843582
+    second: hjm-assorted_rocks_1_86
+  - first:
+      213: -8377615843705842566
+    second: hjm-assorted_rocks_1_87
+  - first:
+      213: 2692880186721737817
+    second: hjm-assorted_rocks_1_88
+  - first:
+      213: 10924789844393665
+    second: hjm-assorted_rocks_1_89
+  - first:
+      213: -3736147913794107017
+    second: hjm-assorted_rocks_1_90
+  - first:
+      213: 5688312750791889365
+    second: hjm-assorted_rocks_1_91
+  - first:
+      213: 7363039918439066870
+    second: hjm-assorted_rocks_1_92
+  - first:
+      213: -8695327246552107413
+    second: hjm-assorted_rocks_1_93
+  - first:
+      213: 7125014430245024533
+    second: hjm-assorted_rocks_1_94
+  - first:
+      213: 3552339582482847106
+    second: hjm-assorted_rocks_1_95
+  - first:
+      213: -1089621181387067710
+    second: hjm-assorted_rocks_1_96
+  - first:
+      213: 2164957061687318936
+    second: hjm-assorted_rocks_1_97
+  - first:
+      213: -2090530866244205840
+    second: hjm-assorted_rocks_1_98
+  - first:
+      213: 8602055184859654004
+    second: hjm-assorted_rocks_1_99
+  - first:
+      213: 7329577650551692749
+    second: hjm-assorted_rocks_1_100
+  - first:
+      213: 5078459055899940601
+    second: hjm-assorted_rocks_1_101
+  - first:
+      213: -6046404276443380911
+    second: hjm-assorted_rocks_1_102
+  - first:
+      213: -3481585918684347855
+    second: hjm-assorted_rocks_1_103
+  - first:
+      213: -6044359906332144381
+    second: hjm-assorted_rocks_1_104
+  - first:
+      213: 3827106098623261683
+    second: hjm-assorted_rocks_1_105
+  - first:
+      213: -557970802105977919
+    second: hjm-assorted_rocks_1_106
+  - first:
+      213: 8508306000700335810
+    second: hjm-assorted_rocks_1_107
+  - first:
+      213: -9109989465472331638
+    second: hjm-assorted_rocks_1_108
+  - first:
+      213: 8581093424718337814
+    second: hjm-assorted_rocks_1_109
+  - first:
+      213: -8025203599405467520
+    second: hjm-assorted_rocks_1_110
+  - first:
+      213: 1591881720527952371
+    second: hjm-assorted_rocks_1_111
+  - first:
+      213: -3769580088264413803
+    second: hjm-assorted_rocks_1_112
+  - first:
+      213: 8074188477791049656
+    second: hjm-assorted_rocks_1_113
+  - first:
+      213: -8113378002811050326
+    second: hjm-assorted_rocks_1_114
+  - first:
+      213: -3640745975964367541
+    second: hjm-assorted_rocks_1_115
+  - first:
+      213: -2105100782023580320
+    second: hjm-assorted_rocks_1_116
+  - first:
+      213: 3745061385050572067
+    second: hjm-assorted_rocks_1_117
+  - first:
+      213: 7801583719394728348
+    second: hjm-assorted_rocks_1_118
+  - first:
+      213: 8705548078170620122
+    second: hjm-assorted_rocks_1_119
+  - first:
+      213: 2398090743257978388
+    second: hjm-assorted_rocks_1_120
+  - first:
+      213: -7543914050583730364
+    second: hjm-assorted_rocks_1_121
+  - first:
+      213: 3313270032994638030
+    second: hjm-assorted_rocks_1_122
+  - first:
+      213: -572366815625441920
+    second: hjm-assorted_rocks_1_123
+  - first:
+      213: 67002307684927881
+    second: hjm-assorted_rocks_1_124
+  - first:
+      213: 8797167650870633312
+    second: hjm-assorted_rocks_1_125
+  - first:
+      213: 4024695926745244072
+    second: hjm-assorted_rocks_1_126
+  - first:
+      213: 2456326833254707360
+    second: hjm-assorted_rocks_1_127
+  - first:
+      213: -4132551169607477278
+    second: hjm-assorted_rocks_1_128
+  - first:
+      213: 7248498095927322219
+    second: hjm-assorted_rocks_1_129
+  - first:
+      213: 321488854503901134
+    second: hjm-assorted_rocks_1_130
+  - first:
+      213: 1316629854304934126
+    second: hjm-assorted_rocks_1_131
+  - first:
+      213: -887700480022237428
+    second: hjm-assorted_rocks_1_132
+  - first:
+      213: -9011311910277947290
+    second: hjm-assorted_rocks_1_133
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_0
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 735
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ec6639ed2924fd0800000000000000
+      internalID: -2359161770135335333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 733
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0ddf93c66f91d10800000000000000
+      internalID: 2096978046207512755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 736
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c133695a8d1ed5d40800000000000000
+      internalID: 5574860234361811740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_3
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 727
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488b485f5ea2833d0800000000000000
+      internalID: -3226781965855967100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_4
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 739
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6226d758f6ffd1c0800000000000000
+      internalID: -4476587958097010068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_5
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 733
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a857148af425550800000000000000
+      internalID: 6148064025385470578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_6
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 734
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ef492220c690140800000000000000
+      internalID: 4686395643681635991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_7
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 733
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cac69e6b97ac0f30800000000000000
+      internalID: 4543190410127133385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_8
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 737
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2ccda728296a290800000000000000
+      internalID: -7879449408933412165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_9
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 723
+        width: 71
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8de51ee4dd050d0800000000000000
+      internalID: -3436003184825411367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_10
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 727
+        width: 69
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec18c2e21da007a0800000000000000
+      internalID: -6412935572749804312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_11
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 731
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f552f14b4a50940800000000000000
+      internalID: 5261792833175904076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_12
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 728
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f03730da46f1bd40800000000000000
+      internalID: 5598526612979527929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_13
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 731
+        width: 72
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f5164542eafbed0800000000000000
+      internalID: -2396005005680091308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_14
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 728
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3605eed5e1f530ab0800000000000000
+      internalID: -5043082573695266717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 663
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5eb4a4f354e5430800000000000000
+      internalID: 3773529675914798569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_16
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 665
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56b184df51a1ee50800000000000000
+      internalID: 6836923142284359263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_17
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 652
+        width: 85
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2062bca900e801f0800000000000000
+      internalID: -1078365778598535126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_18
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 664
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36e39192751200b0800000000000000
+      internalID: -5764020991267969474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_19
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 661
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945393043627024b0800000000000000
+      internalID: -5467244177022962359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_20
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 661
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b758c930893cd70800000000000000
+      internalID: 9062254016477887260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_21
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 654
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e468d6377a98f7640800000000000000
+      internalID: 5079930256986310222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_22
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 661
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d85e36da3c90b20800000000000000
+      internalID: 3101224967894043963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_23
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 655
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f44826a0b1a0f90800000000000000
+      internalID: -6986742140495442042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_24
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 662
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294dcc3dee8fdc1a0800000000000000
+      internalID: -6787495358738148206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_25
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 664
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e94590915ef76690800000000000000
+      internalID: -7608833419147654684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_26
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 656
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41125eca477935040800000000000000
+      internalID: 4635214968867070228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_27
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 654
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103e7f85df670c270800000000000000
+      internalID: 8268739746343674625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_28
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 657
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca71dc8314068c90800000000000000
+      internalID: -7168037274900137280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_29
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 637
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cc38a9a8f8980a0800000000000000
+      internalID: -6878809130371134458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_30
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 640
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11d77b5178df2040800000000000000
+      internalID: 4625153323710271771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_31
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 635
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f34f9d77b6860b0800000000000000
+      internalID: -5735215962954383501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_32
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 591
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd54ad6a9b4095b10800000000000000
+      internalID: 1970611507366086107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_33
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 585
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5eafa7167f07d70800000000000000
+      internalID: 9038996450179737052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_34
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 598
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1beeca01d8816de10800000000000000
+      internalID: 2221990460303142577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_35
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 591
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03106b6c710e8b3b0800000000000000
+      internalID: -5496396952483004112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_36
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 594
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3c37f13eecec480800000000000000
+      internalID: -8876930340620090370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_37
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 570
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4083f11950451c440800000000000000
+      internalID: 4954333447970568196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_38
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 574
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980e8f94a53b57ff0800000000000000
+      internalID: -38927821393305463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_39
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 570
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8fbcb7d09e74c10800000000000000
+      internalID: 2037853600529250483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_40
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 571
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe60d47c4c545f90800000000000000
+      internalID: -6965841240188227842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_41
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 570
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4374e53903066a0800000000000000
+      internalID: -6458108456149240656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_42
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 570
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c43b39d10e7a230800000000000000
+      internalID: 3650132440643751040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_43
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 573
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437c4503c8fbf7160800000000000000
+      internalID: 7025544552548452148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_44
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 575
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471b0066ae2f37700800000000000000
+      internalID: 537039869134811508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_45
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 576
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fead4d9bc9ad86240800000000000000
+      internalID: 4785314970748639983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_46
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 516
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd779055c7a76080800000000000000
+      internalID: -9194195648351076875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_47
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 508
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01b103a6678ede90800000000000000
+      internalID: -6999007895995961076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_48
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 514
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93fe86d9dd1a82f0800000000000000
+      internalID: -969929948300119138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_49
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 509
+        width: 66
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678fdae35a6b88300800000000000000
+      internalID: 254654199783880822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_50
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 514
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e6ef1a7da3065e0800000000000000
+      internalID: -1918468743449645543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_51
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 498
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe591287856a7b20800000000000000
+      internalID: 3132928123467292409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_52
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 504
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67dfc04a5581c1e0800000000000000
+      internalID: -2179314121989695637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_53
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 493
+        width: 75
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b742e1d55e2535f0800000000000000
+      internalID: -777664414523177032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_54
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 498
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6429c1eeaa444ac0800000000000000
+      internalID: -3871887664658963346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_55
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 503
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4f2cfa2b1a78ab0800000000000000
+      internalID: -5005854671973976834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_56
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 489
+        width: 80
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be2b5a5996f4e050800000000000000
+      internalID: 5829054956230618807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_57
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 493
+        width: 79
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ac26edc2b664750800000000000000
+      internalID: 6288831770123225602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_58
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 436
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3592a8c0b474b7440800000000000000
+      internalID: 4934616204373010771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_59
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 448
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b46d801b3f6b450800000000000000
+      internalID: 6104334286630308619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_60
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 448
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4501f6d761849c560800000000000000
+      internalID: 7334472729580474452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_61
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 443
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3afe0132010e3d0800000000000000
+      internalID: -3179523594129529907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_62
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 427
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4683b3b92807b8100800000000000000
+      internalID: 111306322053118052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_63
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 441
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19dcdc012aaea9d0800000000000000
+      internalID: -2761082462605092579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_64
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 431
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333911d4733b3f130800000000000000
+      internalID: 3599417577296728883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_65
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 424
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa8ff0074da81850800000000000000
+      internalID: 6348014195249744632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_66
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 433
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff35fdde953759310800000000000000
+      internalID: 1411160888330638335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_67
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 438
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b69487b482aaf50800000000000000
+      internalID: 6893366484249701180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_68
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 443
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba222b8c7d0f78e80800000000000000
+      internalID: -8176301788892093781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_69
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 425
+        width: 68
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a567364ac55b13b0800000000000000
+      internalID: -5540740589299472986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_70
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 439
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705c2c4ce9db64a70800000000000000
+      internalID: 8810938210600535303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_71
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 432
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf22919319681aa0800000000000000
+      internalID: -6190082155053174820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_72
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 357
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc8b3bc205ad5cb0800000000000000
+      internalID: -4873557790326813453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_73
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 357
+        width: 71
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da463560f87e8840800000000000000
+      internalID: 5228249191309265622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_74
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 360
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ffe6636bd693110800000000000000
+      internalID: 1241143801682001775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_75
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 358
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63d6dec54d7ee500800000000000000
+      internalID: 427416753423176559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_76
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 358
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9f3c55190b085d0800000000000000
+      internalID: -3062253608356283939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_77
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 352
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f93d17c6f410e60800000000000000
+      internalID: 7926704146333540236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_78
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 351
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be39ff973f2354850800000000000000
+      internalID: 6360546070035928043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_79
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 353
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ef964c17cd03950800000000000000
+      internalID: 6426879049442393745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_80
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 351
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c951a3a6bb67e6f0800000000000000
+      internalID: -655436788585637435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_81
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 349
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d227e0d403b01c620800000000000000
+      internalID: 2792525546025546285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_82
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 351
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503b278e64ca8c1c0800000000000000
+      internalID: -4483144008499809531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_83
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 349
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4492f223398ad560800000000000000
+      internalID: 7339329395476304973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_84
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 351
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f588e379b789a4300800000000000000
+      internalID: 237169586976229471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_85
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 352
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605057901df1d8630800000000000000
+      internalID: 3930833032431600902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_86
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 346
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd6d4b7bd2ca49a0800000000000000
+      internalID: -6247967285100843582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_87
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 272
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a749a33d6cabcbb80800000000000000
+      internalID: -8377615843705842566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_88
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 269
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c9c3823480f5520800000000000000
+      internalID: 2692880186721737817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_89
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 274
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cebbe9d900d62000800000000000000
+      internalID: 10924789844393665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_90
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 266
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7794cf17449862cc0800000000000000
+      internalID: -3736147913794107017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_91
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 273
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d196421f42f0fe40800000000000000
+      internalID: 5688312750791889365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_92
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 267
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fce4957bc5ce2660800000000000000
+      internalID: 7363039918439066870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_93
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 266
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b667c7760fdf35780800000000000000
+      internalID: -8695327246552107413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_94
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 273
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5137946dfd221e260800000000000000
+      internalID: 7125014430245024533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_95
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 262
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285137777027c4130800000000000000
+      internalID: 3552339582482847106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_96
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 273
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ceaeaffe43e0e0f0800000000000000
+      internalID: -1089621181387067710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_97
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 261
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89998d72af87b0e10800000000000000
+      internalID: 2164957061687318936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_98
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 267
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f24685d041fcf2e0800000000000000
+      internalID: -2090530866244205840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_99
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 268
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477eddf6d93a06770800000000000000
+      internalID: 8602055184859654004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_100
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 259
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd96c61a04e7b560800000000000000
+      internalID: 7329577650551692749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_101
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 257
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f61841ca9f4a7640800000000000000
+      internalID: 5078459055899940601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_102
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 173
+        width: 61
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1538036885bd61ca0800000000000000
+      internalID: -6046404276443380911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_103
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 172
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13241dd9d0ceeafc0800000000000000
+      internalID: -3481585918684347855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_104
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 169
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d857880be1e1ca0800000000000000
+      internalID: -6044359906332144381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_105
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 175
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbab2648bc9c1530800000000000000
+      internalID: 3827106098623261683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_106
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 177
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3fe610380b148f0800000000000000
+      internalID: -557970802105977919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_107
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 172
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6611c8a33931670800000000000000
+      internalID: 8508306000700335810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_108
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 173
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8098f219d0d29180800000000000000
+      internalID: -9109989465472331638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_109
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 173
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617d6c4510b261770800000000000000
+      internalID: 8581093424718337814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_110
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 172
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088304f78dfb0a090800000000000000
+      internalID: -8025203599405467520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_111
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 179
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9918c9dff771610800000000000000
+      internalID: 1591881720527952371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_112
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 179
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d2d9eb1e2cfabc0800000000000000
+      internalID: -3769580088264413803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_113
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 175
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7994444a74d0070800000000000000
+      internalID: 8074188477791049656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_114
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 180
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6aaf561bd776f80800000000000000
+      internalID: -8113378002811050326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_115
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 168
+        width: 104
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45063903d8797dc0800000000000000
+      internalID: -3640745975964367541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_116
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 182
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0656617fdfd29c2e0800000000000000
+      internalID: -2105100782023580320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_117
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 179
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325c8fdcc7129f330800000000000000
+      internalID: 3745061385050572067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_118
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 86
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c995ef7ee0bc44c60800000000000000
+      internalID: 7801583719394728348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_119
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 86
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0c1766ad150d870800000000000000
+      internalID: 8705548078170620122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_120
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 89
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4165b0b43dab74120800000000000000
+      internalID: 2398090743257978388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_121
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 90
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447e0eee322ae4790800000000000000
+      internalID: -7543914050583730364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_122
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 90
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec897916a891bfd20800000000000000
+      internalID: 3313270032994638030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_123
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 83
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d8c69e96b8e08f0800000000000000
+      internalID: -572366815625441920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_124
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 79
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98901bc6e3a0ee000800000000000000
+      internalID: 67002307684927881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_125
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 87
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063a3bb7e51d51a70800000000000000
+      internalID: 8797167650870633312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_126
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 87
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1ac922f979ad730800000000000000
+      internalID: 4024695926745244072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_127
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 88
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0386c9d30a61220800000000000000
+      internalID: 2456326833254707360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_128
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 88
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7db6f3b9a36a6c0800000000000000
+      internalID: -4132551169607477278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_129
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 78
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66e7d23d96d79460800000000000000
+      internalID: 7248498095927322219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_130
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 84
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7c3fbe868267400800000000000000
+      internalID: 321488854503901134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_131
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 87
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8158e60eb954210800000000000000
+      internalID: 1316629854304934126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_132
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 84
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fa45ddd114ea3f0800000000000000
+      internalID: -887700480022237428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-assorted_rocks_1_133
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 85
+        width: 68
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660e2a3cf8361f280800000000000000
+      internalID: -9011311910277947290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

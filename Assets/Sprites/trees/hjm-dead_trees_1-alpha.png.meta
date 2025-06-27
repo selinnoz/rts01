@@ -1,0 +1,1368 @@
+fileFormatVersion: 2
+guid: 43381f72d2e704f41a8a80a317c36637
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -707460154658361083
+    second: hjm-dead_trees_1-alpha_0
+  - first:
+      213: 1685216534052733784
+    second: hjm-dead_trees_1-alpha_1
+  - first:
+      213: -2005030814621630379
+    second: hjm-dead_trees_1-alpha_2
+  - first:
+      213: -898511201212072219
+    second: hjm-dead_trees_1-alpha_3
+  - first:
+      213: -3350893029698779401
+    second: hjm-dead_trees_1-alpha_4
+  - first:
+      213: 5133700771590149246
+    second: hjm-dead_trees_1-alpha_5
+  - first:
+      213: -2281024320258165300
+    second: hjm-dead_trees_1-alpha_6
+  - first:
+      213: -5575100713227254370
+    second: hjm-dead_trees_1-alpha_7
+  - first:
+      213: 8684279163049047562
+    second: hjm-dead_trees_1-alpha_8
+  - first:
+      213: -6511669731063349208
+    second: hjm-dead_trees_1-alpha_9
+  - first:
+      213: 24307847816451724
+    second: hjm-dead_trees_1-alpha_10
+  - first:
+      213: 7421272556631418570
+    second: hjm-dead_trees_1-alpha_11
+  - first:
+      213: 6857726464770106197
+    second: hjm-dead_trees_1-alpha_12
+  - first:
+      213: -3993480274212431736
+    second: hjm-dead_trees_1-alpha_13
+  - first:
+      213: 9031798058509241676
+    second: hjm-dead_trees_1-alpha_14
+  - first:
+      213: -1374213352860150827
+    second: hjm-dead_trees_1-alpha_15
+  - first:
+      213: 2928278088495292763
+    second: hjm-dead_trees_1-alpha_16
+  - first:
+      213: -2138232995161871177
+    second: hjm-dead_trees_1-alpha_17
+  - first:
+      213: -6838789054285512519
+    second: hjm-dead_trees_1-alpha_18
+  - first:
+      213: 4357924416036227435
+    second: hjm-dead_trees_1-alpha_19
+  - first:
+      213: -92601214703723377
+    second: hjm-dead_trees_1-alpha_20
+  - first:
+      213: -6838345223205316792
+    second: hjm-dead_trees_1-alpha_21
+  - first:
+      213: 3087380124741164344
+    second: hjm-dead_trees_1-alpha_22
+  - first:
+      213: 803299370638656829
+    second: hjm-dead_trees_1-alpha_23
+  - first:
+      213: -3435550531327158859
+    second: hjm-dead_trees_1-alpha_24
+  - first:
+      213: -3566401578087166010
+    second: hjm-dead_trees_1-alpha_25
+  - first:
+      213: 797527040418153375
+    second: hjm-dead_trees_1-alpha_26
+  - first:
+      213: -8990343790966126317
+    second: hjm-dead_trees_1-alpha_27
+  - first:
+      213: 1307410312775676092
+    second: hjm-dead_trees_1-alpha_28
+  - first:
+      213: -7004111841728895829
+    second: hjm-dead_trees_1-alpha_29
+  - first:
+      213: -6508595143760846790
+    second: hjm-dead_trees_1-alpha_30
+  - first:
+      213: -8634081179376690044
+    second: hjm-dead_trees_1-alpha_31
+  - first:
+      213: -5611885900664767628
+    second: hjm-dead_trees_1-alpha_32
+  - first:
+      213: 8448640490793063603
+    second: hjm-dead_trees_1-alpha_33
+  - first:
+      213: -176287223716647477
+    second: hjm-dead_trees_1-alpha_34
+  - first:
+      213: -5668229395510480245
+    second: hjm-dead_trees_1-alpha_35
+  - first:
+      213: 7525475246332804301
+    second: hjm-dead_trees_1-alpha_36
+  - first:
+      213: -2700649669723320724
+    second: hjm-dead_trees_1-alpha_37
+  - first:
+      213: 196949502781705312
+    second: hjm-dead_trees_1-alpha_38
+  - first:
+      213: 3281414387353991462
+    second: hjm-dead_trees_1-alpha_39
+  - first:
+      213: 2510882889867542987
+    second: hjm-dead_trees_1-alpha_40
+  - first:
+      213: -8502035449645888805
+    second: hjm-dead_trees_1-alpha_41
+  - first:
+      213: 3935056546548974021
+    second: hjm-dead_trees_1-alpha_42
+  - first:
+      213: -7268446477164329213
+    second: hjm-dead_trees_1-alpha_43
+  - first:
+      213: -3189932001444792779
+    second: hjm-dead_trees_1-alpha_44
+  - first:
+      213: 2723465069640206537
+    second: hjm-dead_trees_1-alpha_45
+  - first:
+      213: -2682134501940855162
+    second: hjm-dead_trees_1-alpha_46
+  - first:
+      213: 6420825052896898567
+    second: hjm-dead_trees_1-alpha_47
+  - first:
+      213: 7445862806093175260
+    second: hjm-dead_trees_1-alpha_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_0
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1133
+        width: 134
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50178d4dcb89e26f0800000000000000
+      internalID: -707460154658361083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_1
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 956
+        width: 224
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85304d15287136710800000000000000
+      internalID: 1685216534052733784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_2
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1261
+        width: 130
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55004c2e813bc24e0800000000000000
+      internalID: -2005030814621630379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_3
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1085
+        width: 85
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee7b01b2d8d783f0800000000000000
+      internalID: -898511201212072219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_4
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 1050
+        width: 222
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6c8741b8c3f71d0800000000000000
+      internalID: -3350893029698779401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_5
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1175
+        width: 118
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7497c9f6a19e3740800000000000000
+      internalID: 5133700771590149246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_6
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 865
+        width: 135
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc53cf2577c2850e0800000000000000
+      internalID: -2281024320258165300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_7
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 992
+        width: 81
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e950011807341a2b0800000000000000
+      internalID: -5575100713227254370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_8
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 824
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a067dd333e1c48870800000000000000
+      internalID: 8684279163049047562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_9
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 824
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8204e4141e6e1a5a0800000000000000
+      internalID: -6511669731063349208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_10
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 820
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c869a5adbdb565000800000000000000
+      internalID: 24307847816451724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_11
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 821
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6ee571218adf660800000000000000
+      internalID: 7421272556631418570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_12
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 821
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553ea6bc2e98b2f50800000000000000
+      internalID: 6857726464770106197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_13
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 824
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888d90659de4498c0800000000000000
+      internalID: -3993480274212431736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_14
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 820
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d81805b74675d70800000000000000
+      internalID: 9031798058509241676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_15
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 824
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d31c298c30ddece0800000000000000
+      internalID: -1374213352860150827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_16
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 824
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b516254286553a820800000000000000
+      internalID: 2928278088495292763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_17
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 820
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc6b547b687352e0800000000000000
+      internalID: -2138232995161871177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_18
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 824
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b08b7da69db711a0800000000000000
+      internalID: -6838789054285512519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_19
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 824
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6947d7ca257a7c30800000000000000
+      internalID: 4357924416036227435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_20
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 824
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c90d39fa307bef0800000000000000
+      internalID: -92601214703723377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_21
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 824
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8479b5720415911a0800000000000000
+      internalID: -6838345223205316792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_22
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 824
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d5cc5add398da20800000000000000
+      internalID: 3087380124741164344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_23
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 824
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3546338584e52b00800000000000000
+      internalID: 803299370638656829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_24
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 824
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5175c7ef87250d0800000000000000
+      internalID: -3435550531327158859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_25
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 824
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfc8bb09a8918ec0800000000000000
+      internalID: -3566401578087166010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_26
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 820
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9384e62e92611b00800000000000000
+      internalID: 797527040418153375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_27
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 824
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31943da74f1eb3380800000000000000
+      internalID: -8990343790966126317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_28
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 824
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb03da4a0cad42210800000000000000
+      internalID: 1307410312775676092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_29
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 824
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba464aaa3656cce90800000000000000
+      internalID: -7004111841728895829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_30
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 824
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a306d456333dca5a0800000000000000
+      internalID: -6508595143760846790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_31
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 824
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cdd55a9e49d2880800000000000000
+      internalID: -8634081179376690044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_32
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 821
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b7ad2a1839e12b0800000000000000
+      internalID: -5611885900664767628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_33
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 824
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4d3b873c99f3570800000000000000
+      internalID: 8448640490793063603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_34
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 824
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdedeb34b3bd8df0800000000000000
+      internalID: -176287223716647477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_35
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 824
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82bb2775676651b0800000000000000
+      internalID: -5668229395510480245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_36
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 824
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc79a76ddbdf6860800000000000000
+      internalID: 7525475246332804301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_37
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 824
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e8d5d1f6d558ad0800000000000000
+      internalID: -2700649669723320724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_38
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 824
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c4eff7784bbb200800000000000000
+      internalID: 196949502781705312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_39
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 824
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6293717effce98d20800000000000000
+      internalID: 3281414387353991462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_40
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 824
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc149236fa278d220800000000000000
+      internalID: 2510882889867542987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_41
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 446
+        width: 85
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda0414edc3b20a80800000000000000
+      internalID: -8502035449645888805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_42
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 267
+        width: 111
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1802c84112c9630800000000000000
+      internalID: 3935056546548974021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_43
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 323
+        width: 126
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3074eab507a412b90800000000000000
+      internalID: -7268446477164329213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_44
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 455
+        width: 249
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5367b34eeb51bb3d0800000000000000
+      internalID: -3189932001444792779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_45
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 276
+        width: 121
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8c6122d01bbc520800000000000000
+      internalID: 2723465069640206537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_46
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 322
+        width: 97
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68efefb81e427cad0800000000000000
+      internalID: -2682134501940855162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_47
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 141
+        width: 189
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e29dadd5a5b1950800000000000000
+      internalID: 6420825052896898567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-dead_trees_1-alpha_48
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 138
+        width: 135
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd91a73b5c4055760800000000000000
+      internalID: 7445862806093175260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
