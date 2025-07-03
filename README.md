@@ -67,5 +67,7 @@ Python terminalinde eğitimi başlatın:
 bash
 Kopyala
 Düzenle
-mlagents-learn rts01\mlagents\config.yaml --run-id=RTSRun --force
+
+(mlagents) D:\>
+mlagents-learn "D:\Unity\rts01\config.yaml" --run-id=RTS_Run001 --force
 Unity'de sahneyi Play butonuna basarak çalıştırın. Eğitim otomatik olarak başlayacaktır.
