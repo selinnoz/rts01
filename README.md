@@ -5,21 +5,21 @@ Bu proje, Unity oyun motoru ve Unity ML-Agents Toolkit kullanılarak geliştiril
 
 ## 🚀 Özellikler
 
-- Unity ML-Agents ile PPO algoritması kullanılarak RL eğitimi
-- Komutan ajanı sadece yüksek seviyeli kararları alır
-- Villager (köylü) birimleri çevresel kaynakları (örneğin Wood) kendisi algılayarak hareket eder
-- UI üzerinden kaynakları takip edebilir ve birim üretebilirsiniz
-- Oyun ortamı: food ve wood üretimi, asker/okçu üretimi
+* Unity ML-Agents ile PPO algoritması kullanılarak RL eğitimi
+* Komutan ajanı sadece yüksek seviyeli kararları alır
+* Villager (köylü) birimleri çevresel kaynakları (örneğin Wood) kendisi algılayarak hareket eder
+* UI üzerinden kaynakları takip edebilir ve birim üretebilirsiniz
+* Oyun ortamı: food ve wood üretimi, asker/okçu üretimi
 
 ## 🔧 Gereksinimler
 
 ### Unity Tarafı:
-- Unity Editor (önerilen: **2022.3 LTS**)
-- Unity ML-Agents (Yüklü olmalı, Package Manager üzerinden eklenebilir)
+* Unity Editor (önerilen: 2022.3 LTS)
+* Unity ML-Agents (Yüklü olmalı, Package Manager üzerinden eklenebilir)
 
 ### Python Tarafı (RL Eğitimi için):
-- Python 3.10+
-- ML-Agents Toolkit
+* Python 3.10+
+* ML-Agents Toolkit
 
 ```bash
 # Conda ortamı oluşturma
