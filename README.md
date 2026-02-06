@@ -1,16 +1,16 @@
 Bu proje, Unity oyun motoru ve Unity ML-Agents Toolkit kullanılarak geliştirilmiş, gerçek zamanlı strateji (RTS) ortamında karar verebilen bir yapay zekâ ajanı (CommanderAgent) eğitmek için tasarlanmıştır. Ajan, kaynak yönetimi, birim üretimi ve görev atama gibi stratejik görevleri pekiştirmeli öğrenme (Reinforcement Learning - RL) ile öğrenmektedir.
 
-🚀 Özellikler
+##🚀 Özellikler
 Unity ML-Agents ile PPO algoritması kullanılarak RL eğitimi
 Komutan ajanı sadece yüksek seviyeli kararları alır
 Villager (köylü) birimleri çevresel kaynakları (örneğin Wood) kendisi algılayarak hareket eder
 UI üzerinden kaynakları takip edebilir ve birim üretebilirsiniz
 Oyun ortamı: food ve wood üretimi, asker/okçu üretimi
-🔧 Gereksinimler
-Unity Tarafı:
+##🔧 Gereksinimler
+###Unity Tarafı:
 Unity Editor (önerilen: 2022.3 LTS)
 Unity ML-Agents (Yüklü olmalı, Package Manager üzerinden eklenebilir)
-Python Tarafı (RL Eğitimi için):
+###Python Tarafı (RL Eğitimi için):
 Python 3.10+
 ML-Agents Toolkit
 
