@@ -1,3 +1,6 @@
+```markdown
+# RTS Commander Agent - Unity ML-Agents
+
 Bu proje, Unity oyun motoru ve Unity ML-Agents Toolkit kullanılarak geliştirilmiş, gerçek zamanlı strateji (RTS) ortamında karar verebilen bir yapay zekâ ajanı (CommanderAgent) eğitmek için tasarlanmıştır. Ajan, kaynak yönetimi, birim üretimi ve görev atama gibi stratejik görevleri pekiştirmeli öğrenme (Reinforcement Learning - RL) ile öğrenmektedir.
 
 ## 🚀 Özellikler
@@ -47,15 +50,17 @@ python -m pip install ./ml-agents
 
 # Check ML-Agents installation
 mlagents-learn --help
+```
 
-🛠️ Kurulum
+## 🛠️ Kurulum
+
 Bu projeyi GitHub üzerinden klonlayın:
 
-bash
-Kopyala
-Düzenle
+```bash
 git clone https://github.com/selinnoz/rts01
 cd rts01
+```
+
 Unity ile rts01 klasörünü açın.
 
 Gamescene sahnesini açın (Assets/Scenes/Gamescene.unity).
@@ -64,10 +69,9 @@ Unity'de sahneyi çalıştırmadan önce Behavior Parameters içeren ajan nesnes
 
 Python terminalinde eğitimi başlatın:
 
-bash
-Kopyala
-Düzenle
-
-(mlagents) D:\>
+```bash
 mlagents-learn "D:\Unity\rts01\config.yaml" --run-id=RTS_Run001 --force
+```
+
 Unity'de sahneyi Play butonuna basarak çalıştırın. Eğitim otomatik olarak başlayacaktır.
+```
